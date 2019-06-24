@@ -1,0 +1,9 @@
+.stack-work/
+dist-newstyle/
+cabal.project.local
+.ghc.environment.*
+result*
+/node_modules/
+dist
+*~
+.DS_Store
