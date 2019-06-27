@@ -1,11 +1,11 @@
-cabal-version:       2.4
+cabal-version:       >=1.22
 name:                miso-action-logger
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Miso state transition logger
 description:         State transition logger for Miso heavily inspired by Redux-Logger.
 homepage:            https://github.com/Lermex/miso-action-logger
 bug-reports:         https://github.com/Lermex/miso-action-logger/issues
-license:             BSD-3-Clause
+license:             BSD3
 license-file:        LICENSE
 author:              Sviat Chumakov
 maintainer:          svchumakov@gmail.com
