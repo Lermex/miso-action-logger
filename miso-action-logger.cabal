@@ -12,6 +12,7 @@ maintainer:          svchumakov@gmail.com
 copyright:           Copyright (c) 2019 Sviat Chumakov
 category:            Web
 extra-source-files:  CHANGELOG.md
+build-type:          Simple
 
 library
   exposed-modules:
